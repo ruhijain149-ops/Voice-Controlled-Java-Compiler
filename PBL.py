@@ -1,3 +1,4 @@
+
 import speech_recognition as sr
 import subprocess
 import os
@@ -93,5 +94,8 @@ public class PatternStar {
             break
         else:
             print("Command not recognized. Try saying 'compile and run java' or 'exit'.")
+
+
+
 
 
